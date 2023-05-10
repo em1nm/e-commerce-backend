@@ -34,15 +34,15 @@ catch (err) {
 });
 
 router.post('/', (req, res) => {
-  // create a new category
+  // create new category
 });
 
 router.put('/:id', (req, res) => {
-  // update a category by its `id` value
+  // update category by `id` value
 });
 
 router.delete('/:id', (req, res) => {
-  // delete a category by its `id` value
+  // delete category by `id` value
 });
 
 module.exports = router;
