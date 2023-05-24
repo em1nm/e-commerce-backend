@@ -51,5 +51,9 @@ Open your terminal, go into the file provided and run npm i and node server.js t
     * PUT /api/products/id - to update a specific product
     * DELETE /api/products/id - to delete a specific product
 
+See link provided below for preview: 
+
+[Preview](https://github.com/em1nm/e-commerce-backend/assets/126382072/efffd58c-0c21-41b2-b208-59c899d4b0a5)
+
 
 
